@@ -1,4 +1,4 @@
-ANU – AI Technology Assistant
+##ANU – AI Technology Assistant
 ANU is an AI-powered technology assistant designed to help students, developers, and professionals get quick answers to technical questions.
 
 The assistant can answer questions related to programming, artificial intelligence, cloud computing, and other technology topics. It can also explain code and provide guidance for learning new technologies.
